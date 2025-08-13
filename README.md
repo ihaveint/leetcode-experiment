@@ -1,5 +1,3 @@
-Doing an experiment to see how fast I'm able to do these questions after all these years :)
+I initially started this as an experiment to see how fast I'm able to solve these questions using C++, which is the main lagnuage I use for competitive programming. But as I'm solving more problems, I'm experimenting with different languages to see what sticks. I'm not timing anything for languages other than C++ right now because I'm not "super" fast with anything other than C++.
 
-I guess at some point if I continue doing this, I'll try solving problems with different languages. Right now it's mainly C++.
-
-Right now, I don't keep track of the times for languages other than C++. I'm practicing their syntax since it's been a while I coded in anything other than C++ and python :)
+I do have a vision of expanding this project soon to actually do something useful with it, but more on that later ;)
